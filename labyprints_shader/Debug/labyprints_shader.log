@@ -1,0 +1,18 @@
+﻿  TwoLabyrinths.cpp
+c:\users\grene\desktop\labyprints_shader - copy\labyprints_shader\angel.h(65): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\grene\desktop\labyprints_shader - copy\labyprints_shader\mat.h(698): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\grene\desktop\labyprints_shader - copy\labyprints_shader\mat.h(699): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\grene\desktop\labyprints_shader - copy\labyprints_shader\mat.h(700): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\grene\desktop\labyprints_shader - copy\labyprints_shader\mat.h(721): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\grene\desktop\labyprints_shader - copy\labyprints_shader\mat.h(723): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\grene\desktop\labyprints_shader - copy\labyprints_shader\mat.h(726): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\grene\desktop\labyprints_shader - copy\labyprints_shader\mat.h(743): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\grene\desktop\labyprints_shader - copy\labyprints_shader\twolabyrinths.cpp(20): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\grene\desktop\labyprints_shader - copy\labyprints_shader\twolabyrinths.cpp(21): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\grene\desktop\labyprints_shader - copy\labyprints_shader\twolabyrinths.cpp(68): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\grene\desktop\labyprints_shader - copy\labyprints_shader\twolabyrinths.cpp(134): warning C4244: 'return': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\grene\desktop\labyprints_shader - copy\labyprints_shader\twolabyrinths.cpp(138): warning C4244: 'return': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\grene\desktop\labyprints_shader - copy\labyprints_shader\twolabyrinths.cpp(279): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\grene\desktop\labyprints_shader - copy\labyprints_shader\twolabyrinths.cpp(308): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\grene\desktop\labyprints_shader - copy\labyprints_shader\twolabyrinths.cpp(425): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  labyprints_shader.vcxproj -> C:\Users\grene\Desktop\labyprints_shader - Copy\Debug\labyprints_shader.exe
